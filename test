@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body><div>
+    <h1>Kormos Huba 9.E osztályos tanuló</h1>
+    <h2>Kormos Huba 9.E osztályos tanuló</h2>
+    <h3>Kormos Huba 9.E osztályos tanuló</h3>
+    <h4>Kormos Huba 9.E osztályos tanuló</h4>
+    <h5>Kormos Huba 9.E osztályos tanuló</h5>
+    <h6>Kormos Huba 9.E osztályos tanuló</h6>
+    <p>A kedvenc tusfürdőm</p>
+    <p> Ez a <b>tusfőrdő</b> a <i>kedvencem </i> !</p>
+
+    <img src="tusfordo.jpg" alt="tusfőrdő">
+
+</div>></body>
+</html>+
